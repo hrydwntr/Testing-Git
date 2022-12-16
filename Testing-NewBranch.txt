@@ -6,3 +6,4 @@ KALIMAT INI HANYA UNTUK MENGETAHUI FUNGSI INI.
   A. Untuk mengetahui editan kedua setelah commit new branch di merge dan new branch di delete
   B. Untuk mengetahui editan dari branch kedua Peope2
  4. Empat
+
