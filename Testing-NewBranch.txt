@@ -4,4 +4,5 @@ KALIMAT INI HANYA UNTUK MENGETAHUI FUNGSI INI.
   A. Untuk testing new branch & new commit
 2. Keduax
   A. Untuk mengetahui editan kedua setelah commit new branch di merge dan new branch di delete
+  B. Untuk mengetahui Peope1-dev ngedit beserta keteranganya.
 3. Ketigax
