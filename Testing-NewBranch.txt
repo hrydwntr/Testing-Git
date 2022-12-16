@@ -1,0 +1,6 @@
+KALIMAT INI HANYA UNTUK MENGETAHUI FUNGSI INI.
+
+1. Pertamax
+  A. Untuk testing new branch & new commit
+2. Keduax
+3. Ketigax
